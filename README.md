@@ -15,6 +15,8 @@
 <a href="https://github.com/Kgtech-cmr/KERM-BUG-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kgtech-cmr/KERM-BUG-MD?color=white&style=flat-square"></a>
 <a href="https://github.com/Kgtech-cmr/KERM-BUG-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kgtech-cmr/KERM-BUG-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/Kgtech-cmr/KERM-BUG-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kgtech-cmr/KERM-BUG-MD?label=Watchers&color=red&style=flat-square"></a>
+   
+### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code 
 
 ## SETUP FOR KERM
 
